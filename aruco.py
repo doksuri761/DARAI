@@ -30,5 +30,5 @@ if __name__ == '__main__':
     import src.entry
     import pathlib
 
-    print(src.entry.entry_point(pathlib.Path("./DARAIOMR001.jpg"), "D:\dong-a-ri-AI\OMRChecker\inputs"))
+    print(src.entry.entry_point(pathlib.Path("./DARAIOMR001.jpg"), "D:\dong-a-ri-AI\inputs"))
     print(ArUco("./OMR/DARAIOMR001.jpg"))
