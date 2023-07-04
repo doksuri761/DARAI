@@ -1,5 +1,7 @@
 # DevRQ(Requirements)
 ***
+![Flowchart](https://cdn.discordapp.com/attachments/990941443830976554/1125812974737698816/wsNUAAAAASUVORK5CYII.png)
+***
 모든 항목은 4W-1H를 기반으로 작성합니다.
 - What: 무엇을 다루는 모듈인가?
 - Why: 왜 이 모듈이 사용하는가?
@@ -49,6 +51,7 @@ If Not 마스터 SBC 동작 오류
 ***
 # Web(Admin Page)
 [**추가예정**]
+MQSrv의 실시간 큐 / 각 서버의 쓰레드로 간 Work의 통계 / 작업량
 ***
 # Web(Client Page)
 [**추가예정**]
