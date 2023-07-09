@@ -52,7 +52,7 @@
 ## 3. 프로젝트 구현
 ### 3.1. 프로젝트 구현 환경
 - OS: Raspberry Pi OS Lite (64-bit)
-- Hostname: MasterSBC, AiSBC1, AiSBC2, AiSBC3, OMR
+- Hostname: MasterSBC, AiSBC1, AiSBC2, OMR
 - MasterSBC SD Card: 128GB (OMR 스캔본 저장)
 - AiSBC1, AiSBC2, AiSBC3, OMR SD Card: 32GB
 - VPN: WireGuard
